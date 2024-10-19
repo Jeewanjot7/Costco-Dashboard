@@ -8,7 +8,7 @@ Costco Wholesale Corporation is a leading global retailer that aims to enhance i
 Information on Open-Source Data
 
 For this project, we got data from Kaggle, a well-known platform where data can be shared, and we can explore real-world datasets for project usage. So, we used Costco Wholesale Corporation data which include the following information: 
-•	Product Categories: Technology, Furniture, Office Supplies
+** Product Categories: Technology, Furniture, Office Supplies
 •	Order Details: Order ID, Order Date, Shipping Date, Shipping Mode
 •	Customer Details: Customer ID, Customer Name
 •	Sales Metrics: Sales, Quantity, Discounts, and Profit
