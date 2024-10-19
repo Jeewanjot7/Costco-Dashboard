@@ -59,19 +59,19 @@ This structure allowed us to effectively monitor the connections between custome
 
 ## Results
 
-1.Sales Performance Trends:
+1. Sales Performance Trends:
 Over the past year, sales figures for product categories showed an upward trend in Technology, with a 15% increase during the holiday season. Furniture sales remained stable, while Office Supplies experienced a seasonal spike in back-to-school months.
 
-2.Shipping Efficiency and Costs:
+2. Shipping Efficiency and Costs:
 Analysis revealed that the most efficient shipping methods were Standard Ground and Two-Day Air. Standard Ground shipping had a cost-saving advantage, with a 20% lower cost per order compared to expedited methods. Customer satisfaction ratings were highest for Two-Day Air, which increased repeat business by 25%.
 
-3.Customer Segmentation:
+3. Customer Segmentation:
 High-value customer segments were identified based on purchasing behavior: 
 Frequent Buyers: Customers who made more than 10 purchases per year contributed 60% of total revenue.
 Bulk Buyers: Customers purchasing quantities above the average order size showed a 30% higher profit margin.
 Seasonal Shoppers: Customers who primarily bought during peak seasons accounted for 40% of sales during those periods.
 
-4.Profitability Analysis:
+4. Profitability Analysis:
 Profit margins varied across product lines, with Technology products yielding the highest average profit margin at 25%. Furniture and Office Supplies had margins of 15% and 10%, respectively. Discounts impacted profitability, especially in Office Supplies, where excessive discounting reduced margins significantly.
 
 
