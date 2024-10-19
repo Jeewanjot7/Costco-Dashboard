@@ -1,4 +1,4 @@
-#Costco Wholesale Corporation Supply Chain Dashboard
+# Costco Wholesale Corporation Supply Chain Dashboard
 
 
 Introduction
