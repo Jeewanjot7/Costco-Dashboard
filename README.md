@@ -1,7 +1,7 @@
 # Costco Wholesale Corporation Supply Chain Dashboard
 
 
-Introduction
+## Introduction
 
 Costco Wholesale Corporation is a leading global retailer that aims to enhance its operational efficiency and customer satisfaction while maintaining low prices and high member retention. 
 
@@ -14,21 +14,21 @@ For this project, we got data from Kaggle, a well-known platform where data can 
 •	Sales Metrics: Sales, Quantity, Discounts, and Profit
 
 
-Purpose 
+## Purpose 
 
 1.	Analyze sales performance across product categories and identify trends over time.
 2.	Evaluate shipping methods and their impact on delivery efficiency and costs.
 3.	Categorize customers based on their purchasing behavior and preferences.
 4.	Measure and analyze profitability across product lines and customer segments.
 
-Goal
+## Goal
 
 1.	Assess total sales figures to gauge overall revenue.
 2.	Identify opportunities to optimize shipping processes for cost savings and faster delivery times.
 3.	Identify high-value customer segments that significantly contribute to revenue.
 4.	Calculate profit margins to evaluate the financial health of various products.
 
-Key Questions
+## Key Questions
 
 1.	How have sales figures across different product categories changed over the last year, and what seasonal or market trends can be identified that may influence future sales strategies?
 2.	Which shipping methods have demonstrated the highest efficiency and cost-effectiveness, and how do these methods affect overall customer satisfaction and repeat business?
@@ -36,7 +36,7 @@ Key Questions
 
 These questions will help guide your analysis and provide actionable insights.
 
-Metrics and KPI’s
+## Metrics and KPI’s
 
 •	Total Sales: To assess revenue generation.
 •	Average Order Value (AOV): Calculated by dividing total sales by 
@@ -45,7 +45,7 @@ Metrics and KPI’s
 
 
 
-Data Model
+## Data Model
 
 Our data model was designed to focus on the essential components of Costco’s supply chain operations:
 
@@ -57,7 +57,7 @@ Our data model was designed to focus on the essential components of Costco’s s
 This structure allowed us to effectively monitor the connections between customer segments, product sales, and shipping methods.
 
 
-Results
+## Results
 
 1.Sales Performance Trends:
 Over the past year, sales figures for product categories showed an upward trend in Technology, with a 15% increase during the holiday season. Furniture sales remained stable, while Office Supplies experienced a seasonal spike in back-to-school months.
@@ -75,7 +75,7 @@ Seasonal Shoppers: Customers who primarily bought during peak seasons accounted 
 Profit margins varied across product lines, with Technology products yielding the highest average profit margin at 25%. Furniture and Office Supplies had margins of 15% and 10%, respectively. Discounts impacted profitability, especially in Office Supplies, where excessive discounting reduced margins significantly.
 
 
-Conclusion
+## Conclusion
 
 The analysis of Costco Wholesale Corporation's supply chain data has yielded valuable insights into sales performance, shipping efficiency, customer segmentation, and profitability. By effectively presenting key metrics, the dashboard serves as a powerful tool for stakeholders, enabling them to make informed and strategic decisions.
 
