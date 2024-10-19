@@ -9,9 +9,9 @@ Information on Open-Source Data
 
 For this project, we got data from Kaggle, a well-known platform where data can be shared, and we can explore real-world datasets for project usage. So, we used Costco Wholesale Corporation data which include the following information: 
 * Product Categories: Technology, Furniture, Office Supplies
-•	Order Details: Order ID, Order Date, Shipping Date, Shipping Mode
-•	Customer Details: Customer ID, Customer Name
-•	Sales Metrics: Sales, Quantity, Discounts, and Profit
+*	Order Details: Order ID, Order Date, Shipping Date, Shipping Mode
+*	Customer Details: Customer ID, Customer Name
+*	Sales Metrics: Sales, Quantity, Discounts, and Profit
 
 
 ## Purpose 
@@ -38,10 +38,10 @@ These questions will help guide your analysis and provide actionable insights.
 
 ## Metrics and KPI’s
 
-•	Total Sales: To assess revenue generation.
-•	Average Order Value (AOV): Calculated by dividing total sales by 
+*	Total Sales: To assess revenue generation.
+*	Average Order Value (AOV): Calculated by dividing total sales by 
                   the number of orders to understand customer spending behavior. 
-•	Profit Margin: This will show profitability by analyzing total profit relative to sales. 
+*	Profit Margin: This will show profitability by analyzing total profit relative to sales. 
 
 
 
@@ -49,10 +49,10 @@ These questions will help guide your analysis and provide actionable insights.
 
 Our data model was designed to focus on the essential components of Costco’s supply chain operations:
 
-•	Customers: Representing Costco members, this entity includes customer ID and relevant details.
-•	Orders: This includes data such as Order ID, Order Date, and Shipping Method.
-•	Products: Covering various categories like Technology, Furniture, and Office Supplies.
-•	Sales Metrics: Encompassing metrics such as Sales, Profit, and Discounts.
+*	Customers: Representing Costco members, this entity includes customer ID and relevant details.
+*	Orders: This includes data such as Order ID, Order Date, and Shipping Method.
+*	Products: Covering various categories like Technology, Furniture, and Office Supplies.
+*	Sales Metrics: Encompassing metrics such as Sales, Profit, and Discounts.
 
 This structure allowed us to effectively monitor the connections between customer segments, product sales, and shipping methods.
 
